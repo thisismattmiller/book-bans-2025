@@ -1,9 +1,15 @@
 # Book Bans 2025
 
 
+Read the blog post here: https://thisismattmiller.com/post/book-bans-2025/
 
-## Overview
+## Apps
 
+Map: https://thisismattmiller.github.io/book-bans-2025/apps/map/dist/
+
+Book Browser: https://thisismattmiller.github.io/book-bans-2025/apps/explore/dist/
+
+Subject by Geo: https://thisismattmiller.github.io/book-bans-2025/apps/by_state/dist/
 
 
 ## Data Files

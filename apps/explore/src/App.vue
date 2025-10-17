@@ -20,7 +20,7 @@ async function loadData() {
   loading.value = true
   showLoadPrompt.value = false
   try {
-    const response = await fetch('/data.json')
+    const response = await fetch('./data.json')
     books.value = await response.json()
     dataLoaded.value = true
     loading.value = false

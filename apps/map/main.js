@@ -24,8 +24,8 @@ document.getElementById('load-map-btn').addEventListener('click', () => {
 
   // Load all data before initializing the map
   Promise.all([
-    fetch('/counties-albers-10m.json').then(r => r.json()),
-    fetch('/data.json').then(r => r.json())
+    fetch('./counties-albers-10m.json').then(r => r.json()),
+    fetch('./data.json').then(r => r.json())
   ])
     .then(([us, data]) => {
       booksData = data;

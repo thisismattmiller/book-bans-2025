@@ -139,7 +139,7 @@ function initializeMap(us) {
       .attr('d', path(topojson.feature(us, us.objects.nation)));
 
     // Load and draw school districts
-    fetch('/school_districts.json')
+    fetch('./school_districts.json')
       .then(response => response.json())
       .then(schoolDistricts => {
         // Create a group for school districts
@@ -324,7 +324,7 @@ function initializeMap(us) {
       });
 
     // Load and draw military bases
-    fetch('/mil_bases.json')
+    fetch('./mil_bases.json')
       .then(response => response.json())
       .then(milBases => {
         // Create a group for military bases

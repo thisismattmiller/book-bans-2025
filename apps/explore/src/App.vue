@@ -428,7 +428,7 @@ function closeModal() {
             @click="openBookModal(book)"
           >
             <img
-              :src="`/thumbnails/${book.id}.jpg`"
+              :src="`./thumbnails/${book.id}.jpg`"
               :alt="book.title"
               class="book-thumbnail"
               @error="(e) => e.target.style.display = 'none'"
@@ -470,7 +470,7 @@ function closeModal() {
 
         <div class="modal-header">
           <img
-            :src="`/thumbnails/${selectedBook.id}.jpg`"
+            :src="`./thumbnails/${selectedBook.id}.jpg`"
             :alt="selectedBook.title"
             class="modal-thumbnail"
             @error="(e) => e.target.style.display = 'none'"

@@ -180,7 +180,7 @@ export default {
       this.showingDistrictSelection = false;
     },
     getThumbnailUrl(bookId) {
-      return `/thumbnails/${bookId}.jpg`;
+      return `./thumbnails/${bookId}.jpg`;
     }
   },
   template: `

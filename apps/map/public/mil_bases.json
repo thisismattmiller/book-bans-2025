@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Marine Corps Base Camp Lejeune, NC",
+    "place_id": "ChIJ7Ta2wa0HqYkR2v7YLhM23CU",
+    "formatted_name": "Camp Lejeune",
+    "formatted_address": "Camp Lejeune, NC 28547, USA",
+    "lat": 34.583588999999996,
+    "lng": -77.36039339999999,
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "name": "Fort Bragg, NC",
+    "place_id": "ChIJha5bE9dpq4kRP-74EJe4v_c",
+    "formatted_name": "Fort Bragg",
+    "formatted_address": "Fort Bragg, NC, USA",
+    "lat": 35.139417,
+    "lng": -79.0051756,
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "name": "Marine Corps Air Station New River, NC",
+    "place_id": "ChIJiWCP7K0NqYkRUM9IAzzry60",
+    "formatted_name": "MCAS New River",
+    "formatted_address": "Curtis Rd, Jacksonville, NC 28545, USA",
+    "lat": 34.7240649,
+    "lng": -77.448366,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "plus_code": {
+      "globalCode": "8764PHF2+JM",
+      "compoundCode": "PHF2+JM Jacksonville, NC, USA"
+    }
+  },
+  {
+    "name": "Naval Surface Warfare Center Dahlgren Division, VA",
+    "place_id": "ChIJbROx2vIZt4kR2XDkY7p6IcU",
+    "formatted_name": "Naval Surface Warfare Center Dahlgren Division",
+    "formatted_address": "6149 Welsh Rd, Dahlgren, VA 22448, USA",
+    "lat": 38.3267648,
+    "lng": -77.0374662,
+    "types": [
+      "government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "plus_code": {
+      "globalCode": "87C48XG7+P2",
+      "compoundCode": "8XG7+P2 Dahlgren, VA, USA"
+    }
+  },
+  {
+    "name": "Marine Corps Base Quantico, VA",
+    "place_id": "ChIJ0bgica77tokRhixvzsO3FhE",
+    "formatted_name": "Marine Corps Base Quantico",
+    "formatted_address": "Marine Corps Base Quantico, Quantico, VA, USA",
+    "lat": 38.521041499999995,
+    "lng": -77.3564743,
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "name": "USMA West Point, NY",
+    "place_id": "ChIJf9NS_ZLNwokRy5RbRdTWQro",
+    "formatted_name": "West Point",
+    "formatted_address": "West Point, NY, USA",
+    "lat": 41.3914827,
+    "lng": -73.95597210000001,
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "name": "Fort Benning, GA",
+    "place_id": "ChIJjQ8XgGTTjIgRNF9OxA6b4xo",
+    "formatted_name": "Fort Benning",
+    "formatted_address": "Fort Benning, GA 31905, USA",
+    "lat": 32.353056099999996,
+    "lng": -84.9552211,
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "name": "Fort Campbell, KY",
+    "place_id": "ChIJu5JAsusrZYgRnqcnULBn0c8",
+    "formatted_name": "Fort Campbell",
+    "formatted_address": "Fort Campbell, KY 42223, USA",
+    "lat": 36.6634467,
+    "lng": -87.47739020000002,
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "name": "Fort Jackson, SC",
+    "place_id": "ChIJ550VKdav-IgRzzFNTTD_5S4",
+    "formatted_name": "Fort Jackson MEPS",
+    "formatted_address": "2435 Marion Ave, Columbia, SC 29207, USA",
+    "lat": 33.9978512,
+    "lng": -80.9507406,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "plus_code": {
+      "globalCode": "865XX2XX+4P",
+      "compoundCode": "X2XX+4P Columbia, SC, USA"
+    }
+  },
+  {
+    "name": "Fort Knox, KY",
+    "place_id": "ChIJa_dUUpjfaIgRnSI-pQymP2Q",
+    "formatted_name": "Fort Knox",
+    "formatted_address": "Fort Knox, KY, USA",
+    "lat": 37.8836637,
+    "lng": -85.9652686,
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "name": "Fort Rucker, AL",
+    "place_id": "ChIJ2a5dfO9kkogRPpVQEy-7kE8",
+    "formatted_name": "Fort Rucker",
+    "formatted_address": "Fort Rucker, AL, USA",
+    "lat": 31.340051499999998,
+    "lng": -85.7153754,
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "name": "Fort Stewart, GA",
+    "place_id": "ChIJG6F72p3i-ogR8FPtzhV46ao",
+    "formatted_name": "Fort Stewart",
+    "formatted_address": "Fort Stewart, GA, USA",
+    "lat": 31.869066699999998,
+    "lng": -81.6089873,
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "name": "Maxwell Air Force Base, AL",
+    "place_id": "ChIJEx8cyZaGjogR2fhpeLudbVE",
+    "formatted_name": "Maxwell Air Force Base",
+    "formatted_address": "Kelly St, Montgomery, AL 36112, USA",
+    "lat": 32.3791188,
+    "lng": -86.3625598,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "plus_code": {
+      "globalCode": "864M9JHP+JX",
+      "compoundCode": "9JHP+JX Montgomery, AL, USA"
+    }
+  },
+  {
+    "name": "Marine Corps Air Station Beaufort, SC",
+    "place_id": "ChIJh2VNXgMM_IgRnEG98RIMeLQ",
+    "formatted_name": "Marine Corps Air Station Beaufort (Merritt Field)",
+    "formatted_address": "Geiger Blvd, Beaufort, SC 29904, USA",
+    "lat": 32.4755067,
+    "lng": -80.7146338,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "plus_code": {
+      "globalCode": "864XF7GP+64",
+      "compoundCode": "F7GP+64 Beaufort, SC, USA"
+    }
+  }
+]

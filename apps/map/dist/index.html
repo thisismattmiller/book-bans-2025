@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>US Interactive Map</title>
+    <script type="module" crossorigin src="./assets/index-DWIiAlrl.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-xh4XNyLw.css">
+  </head>
+  <body>
+    <div id="app">
+      <div id="welcome-modal">
+        <div class="modal-content">
+          <h1>Book Bans Map 2025</h1>
+          <p>Explore banned books in the United States.</p>
+          <p class="modal-instruction">Once loaded, you can click, zoom, and pan around the map to view more information about book bans in those districts.</p>
+          <button id="load-map-btn" class="modal-button">Load Map</button>
+        </div>
+      </div>
+      <div id="loading-spinner" class="hidden">
+        <div class="spinner"></div>
+        <p>Loading data...</p>
+      </div>
+      <svg id="map" viewBox="0 0 975 610"></svg>
+      <div id="info-panel" class="hidden">
+        <div id="vue-app"></div>
+      </div>
+    </div>
+  </body>
+</html>
